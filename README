@@ -1,0 +1,33 @@
+README
+======
+ 
+What is PMDB?
+----------------
+ 
+PMDB is my first attempt at creating a full featured web application. It
+started as a convenient way to implement and test my PHP/SQL learnings
+at the time - but evolved into an actual useful application. 
+
+The client is a manufacturing company that needed the ability to track the
+preventive maintenance jobs on the equipment. There were multiple users, 
+multiple levels of users (admin, superuser, user), and multiple categories
+of users (electrical, mechanical, etc.).
+ 
+Requirements
+------------
+ 
+Since this project is still in development, the only systems tested are 
+the following:
+
+Development Platform
+ * Ubuntu 9.10 - the Karmic Koala
+ * Apache 2.2.12
+ * PHP 5.2.10
+ * MySQL 5.1.37
+ * Firefox 3.5.8
+ 
+Documentation
+-------------
+ 
+PMDB is still in the early stages of development.  There is currently no
+documentation.
